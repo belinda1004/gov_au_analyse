@@ -1,7 +1,6 @@
 import csv_rw
 import pandas as pd
 import df
-import numpy as np
 
 csv_list = ['download_file_1.csv',
             'download_file_2.csv',

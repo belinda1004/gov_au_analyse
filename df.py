@@ -1,6 +1,3 @@
-import pandas as pd
-import csv_rw
-
 
 def find_split_column_index(df):
     res = []
